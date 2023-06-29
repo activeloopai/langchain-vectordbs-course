@@ -1,0 +1,10 @@
+openai
+python-dotenv
+deeplake
+langchain
+tiktoken
+aiohttp
+cchardet
+aiodns
+streamlit
+redis
