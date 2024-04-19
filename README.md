@@ -1,6 +1,6 @@
 # Free LangChain Course: LangChain & Vector Databases in Production
 
-This repository contains Jupyter notebooks for the course (LangChain & Vector Databases in Production Course)[http://learn.activeloop.ai/]. This course is brought to you in collaboration with Activeloop, Towards AI, & Intel Disruptor Initiative, designed to equip you with the knowledge and skills to train, fine-tune, and incorporate Large Language Models (LLMs) into AI products at your organization.
+This repository contains Jupyter notebooks for the course [LangChain & Vector Databases in Production Course](http://learn.activeloop.ai/). This course is brought to you in collaboration with Activeloop, Towards AI, & Intel Disruptor Initiative, designed to equip you with the knowledge and skills to train, fine-tune, and incorporate Large Language Models (LLMs) into AI products at your organization.
 
 ## Who Should Use This Repository?
 
